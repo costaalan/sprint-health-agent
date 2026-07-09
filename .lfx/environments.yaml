@@ -1,0 +1,6 @@
+environments:
+  remote:
+    url: http://localhost:7860
+    api_key_env: LANGFLOW_REMOTE_API_KEY
+defaults:
+  environment: remote
